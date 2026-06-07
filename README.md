@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Powerful Telegram bot to do a real-time subscriber or member count for all types of groups and channels.
+  name: MemberCounterMeta version: 1.0 type: Repository author: VarshuAi description: >   Powerful Telegram bot to do a real-time subscriber or member count for all types of groups and channels. primary_tech: Python
 primary_tech: Python
 ```
 
